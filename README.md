@@ -245,4 +245,4 @@
 
     ### Diagrama de casos de Uso
 
-    ![User Case](/Diagram/UserCase/UserCase.png)
+    ![Use Case](/Diagram/UseCase/UseCase.png)
