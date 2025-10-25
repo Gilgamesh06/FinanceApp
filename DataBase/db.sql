@@ -20,6 +20,7 @@ CREATE TABLE registro(
     tipo BOOLEAN NOT NULL,
     categoria VARCHAR(100) NOT NULL,
     valor DECIMAL(15,4) NOT NULL,
+    descripcion VARCHAR(255),
     fecha DATE NOT NULL,
     usuario_id INT NOT NULL,
 
