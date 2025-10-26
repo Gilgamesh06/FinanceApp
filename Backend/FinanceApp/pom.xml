@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gilgamesh</groupId>
-	<artifactId>financeapp</artifactId>
+	<artifactId>FinanceApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>financeapp</name>
+	<name>FinanceApp</name>
 	<description>Backend De aplicacion web sencilla para finanzas personales.</description>
 	<url/>
 	<licenses>
